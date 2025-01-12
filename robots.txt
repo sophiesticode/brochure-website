@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://brochure-website.com/sitemap.xml

@@ -1,0 +1,17 @@
+{
+	"name": "sophieminos/brochure-website.com",
+	"autoload": {
+		"psr-4": {
+			"Router\\": "routes/",
+			"App\\": "app/",
+			"Database\\": "database/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Sophie Minos",
+			"email": "minos.sophie@gmail.com"
+		}
+	],
+	"require": {}
+}
